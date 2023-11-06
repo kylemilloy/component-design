@@ -1,6 +1,6 @@
-import { ChakraProvider, Container } from "@chakra-ui/react";
-import "./App.css";
-import Events from "./components/organisms/Events/Events";
+import { ChakraProvider, Container } from '@chakra-ui/react'
+import './App.css'
+import Events from './components/organisms/Events/Events'
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
         <Events />
       </Container>
     </ChakraProvider>
-  );
+  )
 }
 
-export default App;
+export default App

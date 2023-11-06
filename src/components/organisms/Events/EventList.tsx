@@ -1,11 +1,11 @@
-import { Box, Grid, Heading, type BoxProps } from "@chakra-ui/react";
-import { type FC, type ReactElement } from "react";
-import { Event } from "./types";
+import { Box, Grid, Heading, type BoxProps } from '@chakra-ui/react'
+import { type FC, type ReactElement } from 'react'
+import { Event } from './types'
 
 type EventListProps = BoxProps & {
-  events: ReadonlyArray<Event>;
-  render: (event: Event) => ReactElement;
-};
+  events: ReadonlyArray<Event>
+  render: (event: Event) => ReactElement
+}
 
 const EventList: FC<EventListProps> = ({ events, render, ...props }) => {
   return (
@@ -16,7 +16,7 @@ const EventList: FC<EventListProps> = ({ events, render, ...props }) => {
         {events.map((event) => render(event))}
       </Grid>
     </Box>
-  );
-};
+  )
+}
 
-export default EventList;
+export default EventList
