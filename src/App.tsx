@@ -1,6 +1,6 @@
 import { ChakraProvider, Container } from "@chakra-ui/react";
 import "./App.css";
-import { Events } from "./components/Events";
+import Events from "./components/organisms/Events/Events";
 
 function App() {
   return (
