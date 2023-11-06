@@ -1,0 +1,2967 @@
+[
+  {
+    "id": 238315,
+    "venue": {
+      "id": 10515,
+      "name": "Canadian National Franchise Show",
+      "slug": "national-event-management-2",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Calgary Franchise Show 2023",
+    "description_without_html": "Come to Calgary’s Largest \"Own Your Own Business\" Event!\nSee the most successful franchises + brand new opportunities from every industry. \n2 Days Only! Meet Face to Face with Proven Businesses\nProven, money making businesses that are now expanding in Calgary are here to meet new potential owners. This is your only opportunity to meet with the hottest businesses face to face. Ask questions and get the information you need in a no pressure environment. Be there, find the businesses that excite you, shake hands and say hello!\nMake More Money: Franchising is the EASY Way to Own a Business\nBuying a franchise or proven business opportunity eliminates all the hard work of opening a business independently and will help you avoid much of the risk of starting a new business. Take control of your future, increase your income, find your path to a better lifestyle. Get the info you need to find the business that is right for you!\nFull and part-time opportunities available from every industry at every investment level. \nFree Seminars\nLearn the ins and outs of franchise ownership so you can make an educated decision about your future. Plus, learn about starting and growing your business. Seminar topics include: Legal Advice, How To Choose The Business For You, Financing Options, Government Assistance Programs and much more.",
+    "starts_on": "2023-11-18T18:00:00Z",
+    "ends_on": "2023-11-19T23:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": false,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/calgary-franchise-show-2023/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/national-event-management-2/images/cd92e647-ae8.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/national-event-management-2/images/cd92e647-ae8.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/national-event-management-2/images/cd92e647-ae8.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "calgary-franchise-show-2023",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["business_and_professional"],
+    "tags": ["calgary"],
+    "ticket_types": [
+      {
+        "id": 901311,
+        "name": "General Admission",
+        "price": "10.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.50",
+              "total_price": "11.25",
+              "service_charges": "0.75",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "0.50"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "0.75"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "10.75"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037376,
+        "name": "How To Franchise Your Business Workshop *",
+        "price": "25.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "1.25",
+              "total_price": "27.00",
+              "service_charges": "0.75",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "1.25"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "0.75"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "25.75"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "BMO Centre",
+      "country": "CA",
+      "position": "50.913302,-113.9618517",
+      "province": "Alberta",
+      "postal_code": "T2G 2W1",
+      "street_name": "20 Roundup Way SE"
+    },
+    "point_location": "SRID=4326;POINT (-113.9618517 50.913302)",
+    "is_sponsored": false,
+    "event_rank": "2.5107"
+  },
+  {
+    "id": 260962,
+    "venue": {
+      "id": 6952,
+      "name": "Bow Valley Baptist Church",
+      "slug": "bvhs-grad-committee",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "PETRA",
+    "description_without_html": "PETRA live in concert - 50th Anniversary Tour\nDates:     Saturday, November 18th at 7pm\n                Sunday, November 19th at 7pm\nWhere:    Bow Valley Baptist Church,  54 West Aarsby Road,  Cochrane, Alberta\nTickets go on sale to the public on Tuesday, September 19th at 9AM.\n \nDoors open at 6:00pm\nBe a part of this once in a lifetime concert event. This is going to sell out quickly so get your tickets now!\nPetra, one of the most popular and influential bands in Christian music history, who retired from touring in 2005, is doing a limited run of tour dates to celebrate 50 years as a band. Whether they were the band you grew up with, or you just discovered them you will not want to miss this concert.\nIt is rare for any artist to last 50 years, but for a band who has released 24 albums over their illustrious career, sold over 10 million records, garnered four Grammys, ten Doves, an induction into the Gospel Music Hall of Fame - it’s relatively unheard of.\nPetra will be playing hits from their 50-year history as well as reminiscing about changes in the culture, the church and Christian music. Come join us and be a part of Christian music history!\nAssigned seating floor and balcony and Backstage tickets are available!  (Backstage Tickets include front and center seating  plus a backstage meet and greet with the bands before the concert)\nSpecial Guest: REVIVAL",
+    "starts_on": "2023-11-19T02:00:00Z",
+    "ends_on": "2023-11-20T05:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": true,
+    "child_count": 2,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/petra/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/bvhs-grad-committee/images/9b3a81d4-776.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/bvhs-grad-committee/img-banner/efa7d549-021.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/bvhs-grad-committee/images/9b3a81d4-776.png",
+    "inventory": null,
+    "inventory_sold_out": true,
+    "public_inventory_sold_out": true,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "petra",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": [
+      "music",
+      "film_media_and_entertainment",
+      "religion_and_spirituality"
+    ],
+    "tags": [
+      "religion",
+      "music",
+      "concert",
+      "live music",
+      "petra",
+      "christian music",
+      "band"
+    ],
+    "ticket_types": [
+      {
+        "id": 965101,
+        "name": "Backstage Passes",
+        "price": "100.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "107.51",
+              "service_charges": "7.51",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "7.51",
+              "total_price_no_tax": "107.51"
+            }
+          }
+        }
+      },
+      {
+        "id": 958761,
+        "name": "Floor Assigned Seating",
+        "price": "40.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "44.23",
+              "service_charges": "4.23",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "4.23",
+              "total_price_no_tax": "44.23"
+            }
+          }
+        }
+      },
+      {
+        "id": 958762,
+        "name": "Balcony Assigned Seating",
+        "price": "35.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "38.96",
+              "service_charges": "3.96",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.96",
+              "total_price_no_tax": "38.96"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Cochrane",
+      "name": "Bow Valley Baptist Church",
+      "country": "CA",
+      "position": "51.1944339,-114.4889682",
+      "province": "Alberta",
+      "postal_code": "T4C 1M1",
+      "street_name": "54 W Aarsby Rd"
+    },
+    "point_location": "SRID=4326;POINT (-114.4889682 51.1944339)",
+    "is_sponsored": false,
+    "event_rank": "2.5097"
+  },
+  {
+    "id": 275141,
+    "venue": {
+      "id": 42,
+      "name": "Boodang",
+      "slug": "boodang-music-canada",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Kayzo- Calgary",
+    "description_without_html": "",
+    "starts_on": "2023-12-24T04:00:00Z",
+    "ends_on": "2023-12-24T09:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "US/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/kyyc/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/boodang-music-canada/images/441fbe1c-d66.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/boodang-music-canada/img-banner/38b2652b-3d4.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/boodang-music-canada/images/441fbe1c-d66.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "kyyc",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["music"],
+    "tags": ["bass music", "palace theatre", "hardstyle", "kayzo", "calgary"],
+    "ticket_types": [
+      {
+        "id": 1000408,
+        "name": "Tier 1",
+        "price": "40.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "2.00",
+              "total_price": "51.44",
+              "service_charges": "9.44",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "2.00"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "3.00"
+                }
+              ],
+              "sum_internal_fees": "6.44",
+              "total_price_no_tax": "49.44"
+            }
+          }
+        }
+      },
+      {
+        "id": 1000407,
+        "name": "Pre Sale",
+        "price": "35.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "1.75",
+              "total_price": "45.91",
+              "service_charges": "9.16",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "1.75"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "3.00"
+                }
+              ],
+              "sum_internal_fees": "6.16",
+              "total_price_no_tax": "44.16"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "The Palace Theatre",
+      "country": "Canada",
+      "position": "51.0454021,-114.0664228",
+      "province": "Alberta",
+      "postal_code": "T2P 1B5",
+      "street_name": "219 8 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.0664228 51.0454021)",
+    "is_sponsored": false,
+    "event_rank": "2.4436"
+  },
+  {
+    "id": 197991,
+    "venue": {
+      "id": 6111,
+      "name": "Red Deer Memorial Centre/Central Alberta Theatre",
+      "slug": "central-alberta-theatre",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "A Louisiana Hayride Christmas",
+    "description_without_html": "You will LOVE A Louisiana Hayride Christmas!\n \nGet in the Christmas spirit with the incredibly talented cast of the Louisiana Hayride Show. After 13 years of successful shows across Western Canada, the cast and crew of the Louisiana Hayride Show are bringing their very special Christmas production to you!\n \nOn stage to entertain you will be Elvis Presley, Patsy Cline, Roy Orbison, Crystal Gayle, Buddy Holly, Shania Twain and more! They’ll be singing their big hits as well as their favorite Christmas songs, such as Blue Christmas, Let It Snow, Pretty Paper, Have Yourself A Merry Little Christmas and White Christmas.\n \nIn addition to enjoying your favorite ‘characters’ from the Louisiana Hayride Show and a few of the show’s most popular songs like I Walk the Line, Crazy, Hound Dog, Sixteen Tons, That’ll Be the Day and Pretty Woman, in this special Christmas edition you’ll be treated to the incredible vocals of the Louisiana Hayride cast as they sing as themselves!\n \nAndrea Anderson will bring tears to your eyes with her incredible versions of Oh Holy Night and How Great Thou Art.  William Brookfield is back for this Christmas show and he and Gil Risling do a wonderful rendition of Away In A Manger and Gil’s vocals and William’s instrumentation on Hark the Herald Angels will leave you breathless!.\n \nWoven throughout the songs are fascinating tidbits of information (with a Christmas twist), delightfully presented by your host and creator of the show, Lori Risling. This show will take you on a magical Christmas journey, a delight from start to finish.You will Love the Songs, You will Love the Stories!!!  Tell your friends and family and get your tickets now before the show sell out! All info available at www.hayrideshow.com or email loririsling@hotmail.com",
+    "starts_on": "2023-12-15T02:30:00Z",
+    "ends_on": "2023-12-15T04:45:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/a-louisiana-hayride-christmas-2/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/central-alberta-theatre/images/SW49KS-f650427f-2b1.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/central-alberta-theatre/img-banner/f650427f-2b1.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/central-alberta-theatre/images/SW49KS-f650427f-2b1.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": "2023-12-15T01:30:00Z",
+    "slug": "a-louisiana-hayride-christmas-2",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["family_friendly", "music", "seasonal_and_holiday"],
+    "tags": ["patsy cline", "elvis presley", "roy orbison", "buddy holly"],
+    "ticket_types": [
+      {
+        "id": 754255,
+        "name": "Assigned Seats",
+        "price": "43.76",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "2.19",
+              "total_price": "55.00",
+              "service_charges": "9.05",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "2.19"
+                },
+                {
+                  "name": "Facility Fee",
+                  "fee_total": "2.50"
+                },
+                {
+                  "name": "Host Fee",
+                  "fee_total": "3.70"
+                }
+              ],
+              "sum_internal_fees": "2.85",
+              "total_price_no_tax": "52.81"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Red Deer",
+      "name": "Red Deer Memorial Centre",
+      "country": "CA",
+      "position": "52.277519,-113.7964941",
+      "province": "Alberta",
+      "postal_code": "T4N 2L6",
+      "street_name": "4214 58 St"
+    },
+    "point_location": "SRID=4326;POINT (-113.7964941 52.277519)",
+    "is_sponsored": false,
+    "event_rank": "2.3497"
+  },
+  {
+    "id": 158106,
+    "venue": {
+      "id": 7018,
+      "name": "Blackfalds Bulldogs",
+      "slug": "blackfalds-bulldogs",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.50",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "2023/24 - Bulldogs Single Game Tickets",
+    "description_without_html": "Welcome to the 2023-2024 regular season of your Blackfalds Bulldogs Junior A Hockey Club.\nWe are excited to host you in our third season at the Eagle Builders Centre in Blackfalds, AB.\n \n\nRefund Policy & Rules\nTicket Holder acknowledges all risks incidental to attending any event for which this ticket is issued, whether occurring before. during or after The Event and hereby agrees to assume all risks. Ticket Holder agrees to adhere to age restrictions set forth by the organizer. Event Host reserves the right to refuse admission and/or to expel from the premises any person whose presence or conduct is deemed by it to be objectionable. Expulsion cancels this ticket and the holder thereupon forfeits all claims. including any claim to a refund of the ticket price. Tickets are non-refundable and any tickets deemed lost, stolen or damaged beyond redemption will not be honoured. Admission is subject to compliance with applicable laws. by-laws. regulations and facility or venue rules (The Rules'). Your ticket does not guarantee entry. Failure to comply with The Rules may result in non-admission or expulsion. In conformance with The Rules: alcohol. illegal drugs, cameras. recording devices. clothing not being worn and bags or containers of any kind. or other items may be excluded from the premises. Ticket Holder consents to a reasonable examination of their person and belongings to ensure compliance. Price shown is inclusive of all taxes and facility charges where applicable. Without the express written consent of The Event host. no ticket sold shall be resold, given away or disposed of by the purchaser in connection with any promotion by the purchaser of any products or services whatsoever or for any commercial purpose No outside food or beverages will be allowed on the premises. Ticket Holder agrees that filming and photos of The Event may be used for promotional purposes. without compensation to the Ticket Holder.",
+    "starts_on": "2023-09-17T00:00:00Z",
+    "ends_on": "2024-02-18T23:30:00Z",
+    "date_time_to_be_determined": false,
+    "timezone": "America/Edmonton",
+    "is_recurring": true,
+    "child_count": 33,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/202324-bulldogs-single-game-tickets/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/blackfalds-bulldogs/images/121bb1f5-287.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/blackfalds-bulldogs/img-banner/d6b085ec-cc2.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/blackfalds-bulldogs/images/121bb1f5-287.png",
+    "inventory": 1428,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "202324-bulldogs-single-game-tickets",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["sports_and_fitness"],
+    "tags": ["hockey"],
+    "ticket_types": [
+      {
+        "id": 596756,
+        "name": "LOGE Single",
+        "price": "31.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "33.43",
+              "service_charges": "2.43",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "2.43",
+              "total_price_no_tax": "33.43"
+            }
+          }
+        }
+      },
+      {
+        "id": 596745,
+        "name": "Adult - Adv",
+        "price": "15.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "16.18",
+              "service_charges": "1.18",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "1.18",
+              "total_price_no_tax": "16.18"
+            }
+          }
+        }
+      },
+      {
+        "id": 596757,
+        "name": "MNP Single",
+        "price": "50.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 3,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "53.92",
+              "service_charges": "3.92",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.92",
+              "total_price_no_tax": "53.92"
+            }
+          }
+        }
+      },
+      {
+        "id": 596746,
+        "name": "Student/Senior - Adv",
+        "price": "12.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "12.94",
+              "service_charges": "0.94",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.94",
+              "total_price_no_tax": "12.94"
+            }
+          }
+        }
+      },
+      {
+        "id": 596747,
+        "name": "Youth - Adv",
+        "price": "5.75",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "6.20",
+              "service_charges": "0.45",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.45",
+              "total_price_no_tax": "6.20"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Blackfalds",
+      "name": "Blackfalds Bulldogs",
+      "country": "CA",
+      "position": "52.3826584,-113.7972382",
+      "province": "Alberta",
+      "postal_code": "T0M 0J0",
+      "street_name": "Eagle Builders Centre 5302 Broadway Ave"
+    },
+    "point_location": "SRID=4326;POINT (-113.7972382 52.3826584)",
+    "is_sponsored": false,
+    "event_rank": "2.2674"
+  },
+  {
+    "id": 186028,
+    "venue": {
+      "id": 2295,
+      "name": "UCalgary Dinos",
+      "slug": "u-of-c-dinos",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "UCalgary Dinos Volleyball vs. Mount Royal Cougars",
+    "description_without_html": "The University of Calgary Dinos, a member of the Canada West Universities Athletic Association and U SPORTS, are one of Canada’s top athletic programs. The Dinos have captured 160 Canada West championships, including the Men's Hockey and Men’s Swimming championships in 2022-23. Additionally, they have won 49 U SPORTS national championships.\nShow off your Dinos pride at the game by purchasing gear from the University of Calgary Bookstore!\nGame Times:\n\nMen’s Volleyball – 6:00 PM\nWomen's Volleyball - 7:30 PM\n\nGetting to the Jack Simpson Gym:\n\nThe easiest way to access is to approach the University from the north side via 32 Ave NW, turning south onto Collegiate Blvd.\nFrom there, turn right to park in Lot 10, or turn left to park in Lot 11.\nIt is a short walk to enter the building via the Olympic Oval north entrance. Walk down the path toward the giant red sculpture.\nThe Jack Simpson Gym is accessible via the University C-Train station.\n\nParking:\nHourly lots are available for short term parking needs at a variety of locations on campus. These lots have both an hourly and daily rate available. Parking fees are in effect at all times. Cick here to learn more.\n ",
+    "starts_on": "2023-11-26T01:00:00Z",
+    "ends_on": "2023-11-26T05:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/ucalgary-dinos-volleyball-vs-mount-royal-cougars-5/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/u-of-c-dinos/images/aa4d613e-b50.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/u-of-c-dinos/img-banner/11e4c138-c2e.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/u-of-c-dinos/images/aa4d613e-b50.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "ucalgary-dinos-volleyball-vs-mount-royal-cougars-5",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["sports_and_fitness"],
+    "tags": ["volleyball", "dinos", "university", "calgary", "sport"],
+    "ticket_types": [
+      {
+        "id": 700135,
+        "name": "Senior (60+)",
+        "price": "11.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "11.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "11.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 700141,
+        "name": "UCalgary Student (with UCID)",
+        "price": "9.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "9.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "9.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 700134,
+        "name": "Youth (7-17)",
+        "price": "9.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "9.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "9.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 700133,
+        "name": "Adult",
+        "price": "16.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "16.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "16.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 700136,
+        "name": "Student (other post secondary students with student ID)",
+        "price": "9.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "9.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "9.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 700137,
+        "name": "Family (2 adults and up to 4 youths)",
+        "price": "45.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "45.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "package_quantity": 6,
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "45.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 949423,
+        "name": "Dinos Invitational Ticket",
+        "price": "16.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "16.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "16.00"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Jack Simpson Gymnasium",
+      "country": "Canada",
+      "position": "51.0778936,-114.13101449999999",
+      "province": "Alberta",
+      "postal_code": "T2N 1N4",
+      "street_name": "2500 University Dr NW"
+    },
+    "point_location": "SRID=4326;POINT (-114.1310145 51.0778936)",
+    "is_sponsored": false,
+    "event_rank": "2.1903"
+  },
+  {
+    "id": 236087,
+    "venue": {
+      "id": 138,
+      "name": "Alberta Beer Festivals",
+      "slug": "alberta-beer-festivals-2",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.75",
+      "low_inventory_threshold_high": "0.90",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "2023 Banff Craft Beer Festival",
+    "description_without_html": "ABF is proud to present the 2023 Banff Craft Beer Festival at the Birthplace of Canada's National Parks, the Cave & Basin. Banff is known for its pristine wilderness, glacier fresh waters, and The World's Most Beautiful Beer Festival! \nTicket Only Includes - Entry into the Festival + Commemorative Sample Mug\nTicket Packages Includes - Entry into the Festival + $40 in Sample Tokens + Commemorative Sample Mug\nHotel Packages Visit - www.banfflodgingco.com/banff-beer-festival\nDate and Times:\n\nThursday, November 23rd: 5:00pm – 10:00pm\nFriday, November 24th: 5:00pm – 10:00pm\nSaturday, November 25th Afternoon Session: 12:00pm – 4:00pm\nSaturday, November 25th Evening Session: 5:00pm – 9:00pm\n\nImportant Information:\n\nTICKETS AND TOKENS ARE NON-REFUNDABLE\nADMISSION PASS DOES NOT INCLUDE FOOD/BEER VOUCHERS\nSAMPLE VOUCHERS ARE $1 EACH SOLD IN BLOCKS OF 10\nNO MINORS, ID REQUIRED\nNO OUTSIDE FOOD OR BEVERAGES\nTICKETS ARE TRANSFERRABLE\nNO RE-ENTRY\nTHIS IS A PARTIAL OUTDOOR EVENT, PLEASE DRESS WARM!\nLast Pour is 15 mins prior to the session ending\n\nKeep up to date with everything happening in the Alberta beer community by following us on Facebook, Twitter, or Instagram at @ABBeerfestivals and tag #banffbeerfest.",
+    "starts_on": "2023-11-24T00:00:00Z",
+    "ends_on": "2023-11-26T04:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "US/Mountain",
+    "is_recurring": true,
+    "child_count": 4,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/2023-banff-craft-beer-festival/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/alberta-beer-festivals-2/images/579b4588-01f.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/alberta-beer-festivals-2/img-banner/11c3ed76-0bd.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/alberta-beer-festivals-2/images/579b4588-01f.png",
+    "inventory": 800,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "2023-banff-craft-beer-festival",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["fairs_and_festivals", "food_and_beverage", "music"],
+    "tags": [
+      "food & drink",
+      "connectexperiences",
+      "food & beverage",
+      "craft beer",
+      "connectcalgary",
+      "festival",
+      "connectactivities",
+      "craft spirits"
+    ],
+    "ticket_types": [
+      {
+        "id": 891087,
+        "name": "General Admission",
+        "price": "34.99",
+        "inventory_left": null,
+        "low_ticket_inventory": 3,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "1.75",
+              "total_price": "39.19",
+              "service_charges": "2.45",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "1.75"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "1.21"
+                }
+              ],
+              "sum_internal_fees": "1.24",
+              "total_price_no_tax": "37.44"
+            }
+          }
+        }
+      },
+      {
+        "id": 923318,
+        "name": "Saturday Evening | Package",
+        "price": "67.99",
+        "inventory_left": null,
+        "low_ticket_inventory": 3,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "3.40",
+              "total_price": "75.01",
+              "service_charges": "3.62",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "3.40"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "2.35"
+                }
+              ],
+              "sum_internal_fees": "1.27",
+              "total_price_no_tax": "71.61"
+            }
+          }
+        }
+      },
+      {
+        "id": 923317,
+        "name": "Saturday Afternoon | Package",
+        "price": "67.99",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "3.40",
+              "total_price": "75.01",
+              "service_charges": "3.62",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "3.40"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "2.35"
+                }
+              ],
+              "sum_internal_fees": "1.27",
+              "total_price_no_tax": "71.61"
+            }
+          }
+        }
+      },
+      {
+        "id": 891085,
+        "name": "Thursday General Admission",
+        "price": "24.99",
+        "inventory_left": null,
+        "low_ticket_inventory": 3,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "1.25",
+              "total_price": "28.33",
+              "service_charges": "2.09",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "1.25"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "0.86"
+                }
+              ],
+              "sum_internal_fees": "1.23",
+              "total_price_no_tax": "27.08"
+            }
+          }
+        }
+      },
+      {
+        "id": 923315,
+        "name": "Thursday| Package",
+        "price": "58.99",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "2.95",
+              "total_price": "65.24",
+              "service_charges": "3.30",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "2.95"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "2.04"
+                }
+              ],
+              "sum_internal_fees": "1.26",
+              "total_price_no_tax": "62.29"
+            }
+          }
+        }
+      },
+      {
+        "id": 923316,
+        "name": "Friday | Package",
+        "price": "67.99",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "3.40",
+              "total_price": "75.01",
+              "service_charges": "3.62",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "3.40"
+                },
+                {
+                  "name": "Processing Fee",
+                  "fee_total": "2.35"
+                }
+              ],
+              "sum_internal_fees": "1.27",
+              "total_price_no_tax": "71.61"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Banff",
+      "name": "Cave and Basin",
+      "country": "Canada",
+      "position": "51.1699126,-115.58949059999998",
+      "province": "AB",
+      "postal_code": "T0L 0C0",
+      "street_name": "311 Cave Ave"
+    },
+    "point_location": "SRID=4326;POINT (-115.5894906 51.1699126)",
+    "is_sponsored": false,
+    "event_rank": "2.1224"
+  },
+  {
+    "id": 276277,
+    "venue": {
+      "id": 3027,
+      "name": "Polaris Box Office",
+      "slug": "the-polaris-centre",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "Foothills Brass: Remembrance and Peace",
+    "description_without_html": "Remembrance and Peace\nReflective works by Elgar, Fauré and Rutter contrast with upbeat music by Cole Porter, Duke Ellington and Glenn Miller, including an appearance by the Andrews Sisters!  \n\nFoothills Brass Quintet \nMatthew Kallio (organ and piano)\nGrace Presbyterian Chancel Choir\n\nNovember 10   7:30pmGrace Presbyterian Church  1009 15th Avenue SW, Calgary\n\nAdults $30\nStudents & Seniors $20\n",
+    "starts_on": "2023-11-11T02:30:00Z",
+    "ends_on": "2023-11-11T04:30:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/fbq-remembrance/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/the-polaris-centre/images/b4df667b-edf.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/the-polaris-centre/img-banner/0729e1f8-908.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/the-polaris-centre/images/b4df667b-edf.png",
+    "inventory": 500,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "fbq-remembrance",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["music", "community_and_culture", "arts_and_theatres"],
+    "tags": [
+      "brass",
+      "foothills brass",
+      "polaris community",
+      "choir",
+      "organ",
+      "remembrance",
+      "fbq"
+    ],
+    "ticket_types": [
+      {
+        "id": 1004435,
+        "name": "General Admission",
+        "price": "30.00",
+        "inventory_left": 425,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "30.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "30.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1004436,
+        "name": "Seniors",
+        "price": "20.00",
+        "inventory_left": 244,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "20.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "20.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1004437,
+        "name": "Students",
+        "price": "20.00",
+        "inventory_left": 300,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "20.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "20.00"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Grace Presbyterian Church",
+      "country": "CA",
+      "position": "51.0388896,-114.0846605",
+      "province": "Alberta",
+      "postal_code": "T2R 0S5",
+      "street_name": "1009 15 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.0846605 51.0388896)",
+    "is_sponsored": false,
+    "event_rank": "2.0202"
+  },
+  {
+    "id": 284204,
+    "venue": {
+      "id": 1267,
+      "name": "Town of Okotoks",
+      "slug": "town-of-okotoks-2",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Light Up Okotoks - Wagon Ride #1",
+    "description_without_html": "Experience the magic of the festive season with the highly popular wagon rides during Light Up Okotoks!\nSecure your spot for this enchanting adventure now. Our wagon ride bookings will be staggered this year on a wagon-by-wagon basis leading up to the event day.\nStarting Sunday, November 5th, registration will be open and then every other day after another wagon will go live for sign up, wiht the last day being Wednesday, November 15th.  \nDon't miss this chance to be a part of the magic and book your tickets early to guarantee your place on this festive voyage. These wagons operate from the Arts and Learning Campus.  If you booked tickets and need to change your time or cancel please let us know as soon as possible as this is a sold out attraction.  Two wagons will be also be available for walk-ups on a first come first serve basis.",
+    "starts_on": "2023-11-18T01:00:00Z",
+    "ends_on": "2023-11-18T04:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "US/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/light-up-okotoks-wagon-ride-1/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/town-of-okotoks-2/images/7aca9d8a-b77.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/town-of-okotoks-2/img-banner/c8dae2e7-064.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/town-of-okotoks-2/images/7aca9d8a-b77.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "light-up-okotoks-wagon-ride-1",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": [
+      "community_and_culture",
+      "seasonal_and_holiday",
+      "fairs_and_festivals"
+    ],
+    "tags": null,
+    "ticket_types": [
+      {
+        "id": 1037580,
+        "name": "Wagon #1 - 7:40 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037576,
+        "name": "Wagon #1 - 6:20 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037575,
+        "name": "Wagon #1 - 6 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037577,
+        "name": "Wagon #1 - 6:40 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037581,
+        "name": "Wagon #1 - 8 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037579,
+        "name": "Wagon #1 - 7:20 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037578,
+        "name": "Wagon #1 - 7 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037583,
+        "name": "Wagon #1 - 8:40 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1037582,
+        "name": "Wagon #1 - 8:20 pm",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Okotoks",
+      "name": "Arts & Learning Campus Plaza",
+      "country": "CA",
+      "position": "50.7244161,-113.9776169",
+      "province": "Alberta",
+      "postal_code": "T1S 2C1",
+      "street_name": "23 Riverside Dr"
+    },
+    "point_location": "SRID=4326;POINT (-113.9776169 50.7244161)",
+    "is_sponsored": false,
+    "event_rank": "1.9138"
+  },
+  {
+    "id": 274057,
+    "venue": {
+      "id": 6594,
+      "name": "Cantare Children's Choir",
+      "slug": "cantare-childrens-choir",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "A Winter's Night",
+    "description_without_html": "This holiday season, Cantare Children's Choir is thrilled to present a captivating performance that perfectly captures the essence of the Winter holidays. Our choir's angelic voices will resound through the air as we sing classic Christmas carols, filling the hearts of those in attendance with joy and warmth. Cantare will share selections from their performance of “A Traditional Christmas” with the Calgary Philharmonic Orchestra.\nJoin us after the concert for Christmas cookies and juice!\n____ \nWe ask that all patrons be seated by 7:15 PM. Latecomers cannot be seated until after the candlelight segment.\n Wheelchair and companion seats are offered\n90-minute program without intermission\nThank you. ",
+    "starts_on": "2023-12-17T02:30:00Z",
+    "ends_on": "2023-12-17T05:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/cantare-holiday-2023/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/cantare-childrens-choir/images/55e90678-5b0.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/cantare-childrens-choir/img-banner/615f17af-8f4.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/cantare-childrens-choir/images/55e90678-5b0.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "cantare-holiday-2023",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["arts_and_theatres", "music", "family_friendly"],
+    "tags": null,
+    "ticket_types": [
+      {
+        "id": 996192,
+        "name": "Premium",
+        "price": "30.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "33.68",
+              "service_charges": "3.68",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.68",
+              "total_price_no_tax": "33.68"
+            }
+          }
+        }
+      },
+      {
+        "id": 996193,
+        "name": "General",
+        "price": "25.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "28.41",
+              "service_charges": "3.41",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.41",
+              "total_price_no_tax": "28.41"
+            }
+          }
+        }
+      },
+      {
+        "id": 996194,
+        "name": "Wheelchair (Or Companion",
+        "price": "25.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "28.41",
+              "service_charges": "3.41",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.41",
+              "total_price_no_tax": "28.41"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Knox United Church",
+      "country": "CA",
+      "position": "51.048157,-114.0713326",
+      "province": "Alberta",
+      "postal_code": "T2P 1S7",
+      "street_name": "506 4 St SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.0713326 51.048157)",
+    "is_sponsored": false,
+    "event_rank": "1.7894"
+  },
+  {
+    "id": 167472,
+    "venue": {
+      "id": 1795,
+      "name": "Osten & Victor Alberta Tennis Centre",
+      "slug": "osten-victor-alberta-tennis-centre",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.50",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "Corporate Box Seating - Calgary National Bank Challenger 2023",
+    "description_without_html": "THE CHALLENGER 2023\nThe Calgary National Bank Challenger (The Challenger) event will return to the OSTEN & VICTOR Alberta Tennis Centre from November 5 to 12, 2023. This will be the second time the popular tournament will be held as a combined….\nMen’s & Women’s Professional Event\nThe Challenger event has quickly gained a reputation as one of the premier sporting events in Alberta and one of best ATP Challenger tournament events in the world. It is the largest professional men’s & women’s combined indoor tennis tournament in Canada. In 2023 we will host our International Tennis Federation (ITF) Women’s Pro Circuit Event featuring many of the best up-and-coming female players in the world. This world class event is a must attend event, featuring many of the best up-and-coming and established stars on the ATP, ITF and WTA World Tours.\nThis event prides itself on bringing the tennis world and the Calgary community together, hosting on-site activities, engaging local tennis clubs and providing opportunities to get on court while the tournament is on.\n \n \nPolicies\n\nThere will be no assigned seating during the ATP Challenger. \nAll tickets are general admission on a first come-first-serve basis with the exception of Box Holders who will be given assigned seats/tickets.\n\nSpectator Etiquette\n\nPlease remain in your seat until the end of play and only leave your seat during a player change-over.\nPlease refrain from making noise during play.\nSmoking is not permitted within the grounds of the Alberta Tennis Centre.\nTurn cell phones to silent or vibrate mode.\nDo not use flash photography from the stands.\n\nCode of Conduct\n\nAlberta Tennis Centre, Tennis Canada, Tennis Alberta and the ATP Tour are committed to creating a safe, comfortable and enjoyable experience for all fans attending.\nWe ask fans to be respectful of those around them and that they conduct themselves appropriately at all times.\nGuests will be denied entry if intoxicated/impaired or in possession of and illegal substance.\nAny other conduct deemed inappropriate by tournament organizers may result in ejection and/or further legal action. \nFans who are ejected will have their tickets revoked and will not be compensated in any way.\n\nParking:\n\nOnly box holders with parking passes are allowed to park on the premises\nPublic transit or car pooling is recommended\nParking available at Carriage House overflow parking lot\nAllow ample time to walk to the Alberta Tennis Centre\nSome street parking is available; please review posted signs on the street\nTowing is enforced\n\nTerms & Conditions \nNo ticket holder or spectator may: (a) continually collect, disseminate, transmit, publish or release from the grounds of the Tournament any match scores or related statistical data during match play (from the commencement of a match through its conclusion for any commercial, betting or gambling purpose); and (b) film, photograph, broadcast, stream, publish, transmit and/or otherwise offer to the public (or assist any third party in offering to the public), on a live or on a delayed basis, in whole or in part, and whether on a free basis or subject to payment, any sound recording, photograph, video footage, motion picture, film and/or other audio-visual content captured by any mean whatsoever inside the Tournament site (except as it is allow in the Tournament Accreditation Policy). The continual use of laptop computers or other handheld electronic devices within the confines (spectator area) of the tournament match courts is prohibited. The exception of this provision is properly credentialed media, tournament vendors and tournament staff when used in the performance of their duties.\nCOVID-19 Notice\nYou understand that the event for which you purchase a ticket shall be presented in accordance with applicable public health conditions as of the date of such event and which may change at any time as determined by federal, provincial, or local government agencie;  such requirements may include, without limitation, changes to capacity, attendance procedures and entry requirements, such as proof of vaccination and/or a negative COVID-19 test, and other protective measures such as requiring attendees to wear face coverings. If any Holder does not comply with any laws, mandates, health orders or directives, promoter or venue terms, conditions or rules, then the promoter or venue operator may refuse admission or require any Holder to leave the venue and you/Holder will not be entitled to a refund.\nEvent Cancellations/Postponements\nEvents may be postponed or canceled for a variety of reasons.  If you hold tickets to an event that is postponed or canceled, we encourage you to directly contact the Alberta Tennis Centre (ATC) to obtain information about postponed dates of the event and whether there is an applicable refund.\n\nRefunds will generally be issued if an event is canceled and not rescheduled, however, ATC reserves the right to retain various fees and charges paid by buyers or sellers on our Service, even if an event is canceled and not rescheduled.  Refunds will be issued by ATC to the Payment Method on file that was used to make your purchase.\nIf an event is rescheduled, we will try to offer a ticket with the same value or in the same location as the one you originally purchased, although that is not always possible.\n\n \n2023 Calgary National Bank Challenger Ticket Validation and Transferability Policy \nSection 1: General Information about Ticket Transferability\n\nAll Calgary National Bank Challenger (the event) general admission tickets are transferable BEFORE being validated.\nGeneral admission tickets include:\n\nDaily tickets\nWeekend passes\nWeekly passes\n\n\nAll daily general admission tickets can be transferred to other people BEFORE it is validated. Once it is validated for the day, the ticket cannot be transferred or be used to enter the event venue anymore.\nA weekend pass is valid for November 11, November 12, and November 13. The weekend pass can be validated once each day. A weekend pass can be transferred to other people before it is validated for the day. Once it is validated for the day, the pass cannot be transferred or be used to enter the event venue on that day.\nA weekly pass is valid for all days from November 5 to November 13. The weekly pass can be validated once each day. A weekly pass can be transferred to other people before it is validated for the day. Once it is validated for the day, the pass cannot be transferred or used to enter the event venue for the Day.\nSpectators are not allowed to duplicate the ticket by photocopying, scanning, or screenshotting.\n\n \nSection 2: Ticket Validation and Re-entering\n\nThe general admission tickets will only be validated during the event (November 5 – 12, 2023). Tickets cannot and will not be validated before or after the event.\nThe general admission tickets will be validated at the entrance of the event venue (OSTEN & VICTOR Alberta Tennis Centre, 295 90th Ave SE Calgary, AB T2J 0A1) only.\nThe general admission tickets will be validated by the volunteers or staff manually or digitally with a ticket scanner.\n\nManual validation: volunteers or staff will hole-punch or mark the valid physical tickets (a printed event ticket) on the date the ticket states and stamp the ticket holder’s arm with a stamp.\nDigital validation: volunteers or staff will validate the digital tickets (a printout of a digital copy or shown on a digital device) by scanning the barcode/QR code and stamp the ticket holder’s arm with a stamp\n\n\nEach daily general admission tickets can only be validated (manually or digitally) once.\nEach weekend pass and weekly pass can only be validated once each day of the event.\nAfter the ticket or the pass is being validated for the day, ticket holders/spectator can re-enter the event venue by showing the ticketing volunteer or staff the stamped image on their arm.\nThe validation stamp image will be changed and updated each day when the gate opens.\n\nFor information for the box holders, please look out for a letter from the Tournament Director, Danny Da Costa. Danny will be sending you the information directly in the near future.",
+    "starts_on": "2023-11-05T16:00:00Z",
+    "ends_on": "2023-11-13T06:55:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": false,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/calgary-national-bank-challenger-2023-corporate-box-seating/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/osten-victor-alberta-tennis-centre/images/b71b9487-a7a.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/osten-victor-alberta-tennis-centre/img-banner/3edb6193-65d.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/osten-victor-alberta-tennis-centre/images/b71b9487-a7a.png",
+    "inventory": 27,
+    "inventory_sold_out": true,
+    "public_inventory_sold_out": true,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "calgary-national-bank-challenger-2023-corporate-box-seating",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": [
+      "health_and_wellness",
+      "sports_and_fitness",
+      "travel_and_outdoor"
+    ],
+    "tags": [
+      "edmonton events",
+      "yyc",
+      "sports",
+      "canadian",
+      "atp challenger tour",
+      "professional tennis",
+      "2023",
+      "calgary roughnecks",
+      "calgary tennis",
+      "national bank challenger",
+      "spruce meadows calgary",
+      "calgary flames",
+      "november events",
+      "best calgary events",
+      "fall events",
+      "womens tennis",
+      "nov 2023",
+      "best events in calgary",
+      "calgary events november",
+      "calgary ski trip",
+      "calgary events nov",
+      "novembre 2023",
+      "winter events",
+      "banff skiing",
+      "edmonton",
+      "yeg",
+      "calgary",
+      "tournament",
+      "banff",
+      "alberta",
+      "yeg events",
+      "rocky mountains",
+      "calgary events",
+      "yyc events",
+      "banff events",
+      "live sports",
+      "tennis"
+    ],
+    "ticket_types": [
+      {
+        "id": 787317,
+        "name": "Corporate A BOX Early Bird",
+        "price": "4400.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "220.00",
+              "total_price": "4854.83",
+              "service_charges": "234.83",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "220.00"
+                }
+              ],
+              "sum_internal_fees": "234.83",
+              "total_price_no_tax": "4634.83"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Osten & Victor Alberta Tennis Centre",
+      "country": "Canada",
+      "position": "50.9717381,-114.06366059999999",
+      "province": "Alberta",
+      "postal_code": "T2J 0A1",
+      "street_name": "295 90 Ave SE"
+    },
+    "point_location": "SRID=4326;POINT (-114.0636606 50.9717381)",
+    "is_sponsored": false,
+    "event_rank": "1.7222"
+  },
+  {
+    "id": 284579,
+    "venue": {
+      "id": 3213,
+      "name": "Big Rock Singers Society",
+      "slug": "big-rock-singers",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Christmas by Candlelight",
+    "description_without_html": "Start the festive season with an astounding evening of Christmas music, joy and wonder. The Big Rock Singers present Christmas By Candlelight, featuring the debut performance of the Okotoks Youth Singers!\nExperience beloved and familiar Christmas music, sung by 70 voices, accompanied by piano and string quartet… presented in the warm glow of candlelight!",
+    "starts_on": "2023-12-09T23:00:00Z",
+    "ends_on": "2023-12-10T01:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/christmas-by-candlelight-4/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/big-rock-singers/images/775f21a8-fdd.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/big-rock-singers/img-banner/81f5fa64-16a.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/big-rock-singers/images/775f21a8-fdd.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": "2023-12-09T22:00:00Z",
+    "slug": "christmas-by-candlelight-4",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["music", "seasonal_and_holiday", "family_friendly"],
+    "tags": [
+      "christmas by candlelight",
+      "okotoks youth singers",
+      "big rock singers"
+    ],
+    "ticket_types": [
+      {
+        "id": 1038715,
+        "name": "Senior",
+        "price": "25.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "28.41",
+              "service_charges": "3.41",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.41",
+              "total_price_no_tax": "28.41"
+            }
+          }
+        }
+      },
+      {
+        "id": 1038716,
+        "name": "Youth",
+        "price": "10.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "12.59",
+              "service_charges": "2.59",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "2.59",
+              "total_price_no_tax": "12.59"
+            }
+          }
+        }
+      },
+      {
+        "id": 1038714,
+        "name": "Adult",
+        "price": "35.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "38.96",
+              "service_charges": "3.96",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.96",
+              "total_price_no_tax": "38.96"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Okotoks",
+      "name": "Okotoks United Church",
+      "country": "Canada",
+      "position": "50.7243722,-113.97961620000001",
+      "province": "Alberta",
+      "postal_code": "T1S 0J2",
+      "street_name": "43 Riverside Dr"
+    },
+    "point_location": "SRID=4326;POINT (-113.9796162 50.7243722)",
+    "is_sponsored": false,
+    "event_rank": "1.6890"
+  },
+  {
+    "id": 277242,
+    "venue": {
+      "id": 9858,
+      "name": "MONETIZE YOUR MIND",
+      "slug": "sarah-swain-co",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "MYM Summit 2024",
+    "description_without_html": "The Monetize Your Mind Summit 2024: Canada’s leading event for conscious & awakened entrepreneurs with Keynote Speakers Brett & Cecelia Kissel!\nIf you’re new here and wondering what all the hype is about, let’s put it this way: This isn't your average business conference. Here, we’re fueled by our hearts. Our Founder Sarah Swain, is on a mission of monumental proportions to help more Canadians have more freedom, choice & independence in their lives by way of heart-led entrepreneurship. And to boot? She believes that if more entrepreneurs are well, and leading from their hearts, then the next generation will see entrepreneurship as a viable path for them, too. \n \nMYM is here to help you build your legacy.\n \nIn other words, we don’t follow the rules of the matrix. We create our own life experiences and inspire others to do the same. And honestly? It’s pretty badass. So, if you ever sat in a conference, desperately clutching your third coffee, while someone drones on about the same ol’ strategies you've heard a gazillion times, don’t worry - That's NOT what the MYM Summit 2024 is about. CLICK HERE TO LEARN MORE ABOUT THIS EVENT\n  \nTo NOTE:If you are purchasing multiple tickets, please ensure that you enter the name of each individual for each ticket.\nAfter checkout please keep an eye on your inbox for details about the venue and booking accommodations if required!",
+    "starts_on": "2024-05-31T15:00:00Z",
+    "ends_on": "2024-06-02T23:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/mymsummit/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/sarah-swain-co/images/e09103b5-49f.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/sarah-swain-co/img-banner/c036dbcf-d49.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/sarah-swain-co/images/e09103b5-49f.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "mymsummit",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["business_and_professional"],
+    "tags": ["summit"],
+    "ticket_types": [
+      {
+        "id": 1016638,
+        "name": "Early Bird - VIP Ticket",
+        "price": "1297.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "64.85",
+              "total_price": "1406.49",
+              "service_charges": "44.64",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "64.85"
+                },
+                {
+                  "name": "Ticket Fee",
+                  "fee_total": "24.64"
+                }
+              ],
+              "sum_internal_fees": "20.00",
+              "total_price_no_tax": "1341.64"
+            }
+          }
+        }
+      },
+      {
+        "id": 1016637,
+        "name": "Early Bird - Premium Ticket",
+        "price": "697.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "34.85",
+              "total_price": "761.48",
+              "service_charges": "29.63",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "34.85"
+                },
+                {
+                  "name": "Ticket Fee",
+                  "fee_total": "13.24"
+                }
+              ],
+              "sum_internal_fees": "16.39",
+              "total_price_no_tax": "726.63"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Hotel Arts",
+      "country": "CA",
+      "position": "51.04062949999999,-114.0645738",
+      "province": "Alberta",
+      "postal_code": "T2R 0G8",
+      "street_name": "119 12 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.0645738 51.04062949999999)",
+    "is_sponsored": false,
+    "event_rank": "1.4547"
+  },
+  {
+    "id": 282490,
+    "venue": {
+      "id": 11375,
+      "name": "ELIXR Simulations",
+      "slug": "elixr-simulations",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "VR After Dark",
+    "description_without_html": "Join ELIXR Simulations, the VR/AR Association Alberta Chapter and Digital Alberta at VR After Dark. VR After Dark celebrates Alberta’s VR and AR innovators, creating a space for you to try out the latest XR (extended reality) technologies supporting industries like healthcare, oil and gas, manufacturing and gaming. \nJoin us to witness how these transformative technologies are shaping the future. Immerse yourself in interactive showcases, listen to experts on the forefront of this revolution and connect with industry leaders who are driving innovation right here in our province. Alberta is embracing the future, and VR After Dark is your gateway to this exciting new world.\nStop by for drinks, snacks and unparalleled networking opportunities while you try the latest innovations from the XR companies that call Alberta home. \n \nDate: November 21\nTime: 6:30P.M.-9:00P.M.\nLocation: Platform Calgary, 407 9 Ave SE, Calgary, AB T2G 2K7\nCost: FREE\n \nSpace is limited so RSVP today to secure your place at this evening of incredible technology.\n \n \nThis event is a part of Innovation Week — a week of events to showcase the diversity and depth of what’s happening in innovation and technology in Calgary and celebrate the people and the ideas that are having an impact.",
+    "starts_on": "2023-11-22T01:30:00Z",
+    "ends_on": "2023-11-22T04:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/vr-after-dark/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/elixr-simulations/images/23263711-ad8.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/elixr-simulations/img-banner/73958414-c5b.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/elixr-simulations/images/23263711-ad8.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": "2023-11-22T01:30:00Z",
+    "slug": "vr-after-dark",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": [
+      "business_and_professional",
+      "science_and_technology",
+      "community_and_culture"
+    ],
+    "tags": [
+      "technology",
+      "innovation week",
+      "thought leadership",
+      "discovery",
+      "vr",
+      "yyc",
+      "ar",
+      "networking",
+      "professional development",
+      "calgary",
+      "innovation"
+    ],
+    "ticket_types": [
+      {
+        "id": 1031089,
+        "name": "General Admission",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Platform Calgary",
+      "country": "CA",
+      "position": "51.044277,-114.0556816",
+      "province": "Alberta",
+      "postal_code": "T2G 2K7",
+      "street_name": "407 9 Ave SE"
+    },
+    "point_location": "SRID=4326;POINT (-114.0556816 51.044277)",
+    "is_sponsored": false,
+    "event_rank": "1.4475"
+  },
+  {
+    "id": 218393,
+    "venue": {
+      "id": 6111,
+      "name": "Red Deer Memorial Centre/Central Alberta Theatre",
+      "slug": "central-alberta-theatre",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Shaun Majumder - The Love Tour",
+    "description_without_html": "Raised in rural Newfoundland Canada, Shaun Majumder has been a performer his entire life. After leaving his hometown of Burlington (Pop 350) and moving to Mississauga Ontario at the age of thirteen, Shaun acted in his first stage play in the 8th Grade (Grade 8 in Canada). Immediately he was hooked. He continued theatre throughout high school, winning several awards at festivals for his many performances. But according to the adults around him, there was no future in this acting thing. So, Shaun followed the guidance of his teachers and did what most did; went to university with the hopes of a career finding him.After one year of partying and taking general arts classes, Shaun quickly realized his true passion was acting, so he abandoned his safety net and went for it.He found early success as a Standup Comedian and host, landing his first gigs with YTV (Canada’s Nickelodeon) as a host/PJ for five years, along with CBC’s Just For Laughs comedy series. He continued to book small roles in Film and TV and in 2003 he Joined the cast of CBC’s This Hour Has 22 minutes where he spent seventeen seasons.For the past twenty plus years, Shaun has found success on both sides of the border. A few noteworthy performances include his work as Detective Vik Mahajan in the ABC’s critically acclaimed crime drama, Detroit 1-8-7. His role as Andrew Palmer on NBC’s The Firm starring alongside Josh Lucas and Juliette Lewis. As Hassan Numair on FOX’s 24. His comedy roles include starring in the Sketch Comedy Series Cedric The Entertainer Presents, The Farrelly Brothers Unhitched, ABC’s Married Not Dead, NBC’s Nevermind Nirvana, and CBC’s Hatching Matching and Dispatching.He currently stars alongside Harold Parineau, Catalina Sandino Moreno and Eion Bailey, in the EPIX Sci Fi/Horror series FROM playing Father Khatri.Shaun resides in Los Angeles with his wife Shelby Fenner, his two daughters Mattis Maple and Eslyn Willow and their two Boston terriers Jazzy and Freddy.",
+    "starts_on": "2023-11-12T03:00:00Z",
+    "ends_on": "2023-11-12T05:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/shaun-majumder-the-love-tour-2/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/central-alberta-theatre/images/9d677306-b58.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/central-alberta-theatre/img-banner/7ca95fdc-a7d.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/central-alberta-theatre/images/9d677306-b58.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": "2023-11-12T02:00:00Z",
+    "slug": "shaun-majumder-the-love-tour-2",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["comedy", "arts_and_theatres"],
+    "tags": [
+      "majumder",
+      "shaun majumder",
+      "the love tour",
+      "shaun majumber the love tour",
+      "comedy",
+      "red deer"
+    ],
+    "ticket_types": [
+      {
+        "id": 824803,
+        "name": "Tier 2",
+        "price": "40.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "2.00",
+              "total_price": "50.94",
+              "service_charges": "8.94",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "2.00"
+                },
+                {
+                  "name": "Ticket Fee",
+                  "fee_total": "3.70"
+                },
+                {
+                  "name": "Facility Fee",
+                  "fee_total": "2.50"
+                }
+              ],
+              "sum_internal_fees": "2.74",
+              "total_price_no_tax": "48.94"
+            }
+          }
+        }
+      },
+      {
+        "id": 824801,
+        "name": "Tier 1",
+        "price": "47.50",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "2.38",
+              "total_price": "59.04",
+              "service_charges": "9.16",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "2.38"
+                },
+                {
+                  "name": "Ticket Fee",
+                  "fee_total": "3.70"
+                },
+                {
+                  "name": "Facility Fee",
+                  "fee_total": "2.50"
+                }
+              ],
+              "sum_internal_fees": "2.96",
+              "total_price_no_tax": "56.66"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Red Deer",
+      "name": "Red Deer Memorial Centre",
+      "country": "CA",
+      "position": "52.277519,-113.7964941",
+      "province": "Alberta",
+      "postal_code": "T4N 2L6",
+      "street_name": "4214 58 St"
+    },
+    "point_location": "SRID=4326;POINT (-113.7964941 52.277519)",
+    "is_sponsored": false,
+    "event_rank": "1.4252"
+  },
+  {
+    "id": 284422,
+    "venue": {
+      "id": 2268,
+      "name": "Calgary Underground Film Festival",
+      "slug": "cuff",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "CAT VIDEO FEST",
+    "description_without_html": "CatVideoFest is a compilation reel of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses.A joyous communal experience, only available in theaters, CatVideoFest raises money for cats in need through partnerships with local cat charities, animal welfare organizations, and shelters to best serve cats in the area.10% of ticket sales from the CUFF.Docs screening will be donated to MEOW Foundation.MEOW Foundation will also be on site for the screening with merchandise for sale.MORE PET DONATIONS WELCOME!New or gently used pet accessories and products, as well as dog food, cat food, cat litter, can also be brought to the screening, for donation to Parachutes for Pets. We'll have a donation box set up.\n ",
+    "starts_on": "2023-11-25T17:00:00Z",
+    "ends_on": "2023-11-25T18:15:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/cat-video-fest/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/cuff/images/5O0LJ5-243cefc5-4dd.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/cuff/img-banner/243cefc5-4dd.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/cuff/images/5O0LJ5-243cefc5-4dd.png",
+    "inventory": 375,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "cat-video-fest",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["fairs_and_festivals"],
+    "tags": ["films"],
+    "ticket_types": [
+      {
+        "id": 1038205,
+        "name": "CUFF Members, Students & Seniors",
+        "price": "8.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "9.27",
+              "service_charges": "1.27",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "1.27",
+              "total_price_no_tax": "9.27"
+            }
+          }
+        }
+      },
+      {
+        "id": 1038204,
+        "name": "General Admission",
+        "price": "10.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "11.42",
+              "service_charges": "1.42",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "1.42",
+              "total_price_no_tax": "11.42"
+            }
+          }
+        }
+      },
+      {
+        "id": 1038206,
+        "name": "Passholder Redemption",
+        "price": "10.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "11.42",
+              "service_charges": "1.42",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "1.42",
+              "total_price_no_tax": "11.42"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Globe Cinema",
+      "country": "CA",
+      "position": "51.045572,-114.075019",
+      "province": "Alberta",
+      "postal_code": "T2P 1H1",
+      "street_name": "617 8 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.075019 51.045572)",
+    "is_sponsored": false,
+    "event_rank": "1.4221"
+  },
+  {
+    "id": 201750,
+    "venue": {
+      "id": 42,
+      "name": "Boodang",
+      "slug": "boodang-music-canada",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Zabo- Calgary",
+    "description_without_html": "",
+    "starts_on": "2023-11-12T04:00:00Z",
+    "ends_on": "2023-11-12T09:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "US/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/zyyc/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/boodang-music-canada/images/793c5b7d-525.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/boodang-music-canada/img-banner/b4029b39-d4b.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/boodang-music-canada/images/793c5b7d-525.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "zyyc",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["music"],
+    "tags": ["calgary", "palace theatre", "zabo"],
+    "ticket_types": [
+      {
+        "id": 769510,
+        "name": "Free before 10:30pm w/ RSVP",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "The Palace Theatre",
+      "country": "Canada",
+      "position": "51.0454021,-114.0664228",
+      "province": "Alberta",
+      "postal_code": "T2P 1B5",
+      "street_name": "219 8 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.0664228 51.0454021)",
+    "is_sponsored": false,
+    "event_rank": "1.4147"
+  },
+  {
+    "id": 280431,
+    "venue": {
+      "id": 7840,
+      "name": "Enbridge Inc.",
+      "slug": "enbridge-inc",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Enbridge Children's Holiday Party 2023",
+    "description_without_html": "***THIS EVENT IS SOLD OUT*** - Waitlist is full at this time. (Contact event team lead Sandi Skitsko for inquiries.) \nPlease join us to celebrate the season at the Children's Holiday Party at The Big Box Indoor Entertainment Centre!\nLimited capacity of 500 guests, including children! Please note this event is for immediate family members only (i.e., spouse/significant other and children).\nAdmission Prices:  \nBaby (1-12 months) - Free \nChild (1-17) - $9.00 \n     Child's package/ticket includes: \n     - Lunch\n     - 1 pair *grippy socks for each child\n     - Leisure Lagoon Admission for each child \n     - 100 arcade credits for each child\n     - 3 Virtual box ride for each child\n     - Unlimited Happy bumper ride for each child\n     - Unlimited On-the-fly ropes course for each child\n     - Goodie bag for each child\nAdult (18+) - $9.00\n     Adult's package/ticket includes: \n     - Lunch\n     - Access to the Leisure Lagoon (adults wishing to play with their kids on the inflatable       structures will be required to wear *grippy socks which can be purchased at Big Box for       $2.99.)\n*If you have your own adult or child grippy socks previously purchased at another indoor activity centre, feel free to bring those to use.  \nRegistration:\n\nPlease register with your personal email only.\nPlease provide full names, ages and dietary restrictions for each guest, if any. [Please note that Big Box offers a very limited menu and not all food sensitivities can be accommodated.]\nHot and cold lunch will be served (pizza, chicken fingers, sandwiches, French fries, veggie trays, fruit trays and cookies)\nSanta and a Photographer will be on site for family pictures with Santa!\nRegistration cut-off deadline is November 19, 2023\n\nWaivers:\nEveryone must sign these waivers for both Big Box and Enbridge. Submit both by email to Sandi Skitsko (sandi.skitsko@enbridge.com).\n- For the Big Box waiver please download, fill out for each family member registered and specify if you require grippy socks and what size.\n- For the Enbridge waiver please download, fill out and sign.\n1.  Big Box - Waiver.docx\n2.  Enbridge - Release of Liability and Waiver of Claims.docx",
+    "starts_on": "2023-12-03T16:00:00Z",
+    "ends_on": "2023-12-03T19:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/enbridge-childrens-holiday-party-2023/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/enbridge-inc/images/FDNWM5-44ec2268-5bb.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/enbridge-inc/img-banner/44ec2268-5bb.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/enbridge-inc/images/FDNWM5-44ec2268-5bb.png",
+    "inventory": null,
+    "inventory_sold_out": true,
+    "public_inventory_sold_out": true,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "enbridge-childrens-holiday-party-2023",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["family_friendly"],
+    "tags": ["holiday"],
+    "ticket_types": [
+      {
+        "id": 1024238,
+        "name": "Baby (1-12 months)",
+        "price": "0.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "0.00",
+              "service_charges": "0.00",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "id": 1022302,
+        "name": "Adults",
+        "price": "9.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "9.56",
+              "service_charges": "0.56",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.56",
+              "total_price_no_tax": "9.56"
+            }
+          }
+        }
+      },
+      {
+        "id": 1022303,
+        "name": "Children (1-17 years)",
+        "price": "9.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "9.56",
+              "service_charges": "0.56",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "0.56",
+              "total_price_no_tax": "9.56"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "The Big Box",
+      "country": "CA",
+      "position": "51.1114273,-114.0438003",
+      "province": "Alberta",
+      "postal_code": "T2E 8S8",
+      "street_name": "930 64 Ave NE"
+    },
+    "point_location": "SRID=4326;POINT (-114.0438003 51.1114273)",
+    "is_sponsored": false,
+    "event_rank": "1.3780"
+  },
+  {
+    "id": 282513,
+    "venue": {
+      "id": 11381,
+      "name": "Pure Art Productions",
+      "slug": "pure-art-productions",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Thirteen",
+    "description_without_html": "🎭 Thirteen Theater Performance 🎭Based on the play \"Twelve Angry Men\" by Reginald Rose Director: Saeid Asgarian Producer: Reza Hedayati Actors: Termeh Tohidi, Marjaneh Hosseini, Behareh Yekekhani, Pooneh Khalilpour, Sheida Lavasani, Zara Masoumi, Niloufar Ashayeri, Safoura Naghavi, Reyhaneh Salehi, Mostafa Pouralamdari, Zahra Pouralamdari, Ali Shahidi. 📍 Location: cSpace Marda Loop, Calgary 🕖 Time: November 17, 2023, in two showtimes:               1️⃣ 5:30 PM - 7:05 PM               2️⃣ 8:10 PM - 9:45 PM(please arrive at the show venue 30 minutes before your scheduled session) Running time: 95 minutes ⚠️ Watching this show is not recommended for children under 7 years old.🚫 Out of consideration for our audience and team, we are unable to admit latecomers after the door has been closed.ℹ️ The show is in Farsi Language.\nSponsors\nPlatinum: \n\nSohelia Bahadoran\n\nGold:\n\nReza Pasanad\n\nSilver:\n\nEhsan Lotfi\nHouse of Kabob\n\n\n \nThanks to: \nIranian Cultural Society of Calgary\n",
+    "starts_on": "2023-11-18T00:30:00Z",
+    "ends_on": "2023-11-18T04:45:00Z",
+    "date_time_to_be_determined": false,
+    "timezone": "America/Edmonton",
+    "is_recurring": true,
+    "child_count": 2,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/thirteen/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/pure-art-productions/images/9580fd1e-8e8.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/pure-art-productions/img-banner/1d837cab-431.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/pure-art-productions/images/9580fd1e-8e8.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "thirteen",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["arts_and_theatres"],
+    "tags": [
+      "art",
+      "persian",
+      "thirteen",
+      "tweleve angry men",
+      "theatre",
+      "theater",
+      "performance",
+      "farsi"
+    ],
+    "ticket_types": [
+      {
+        "id": 1031228,
+        "name": "Regular Admission (non-student)",
+        "price": "22.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "25.24",
+              "service_charges": "3.24",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "3.24",
+              "total_price_no_tax": "25.24"
+            }
+          }
+        }
+      },
+      {
+        "id": 1031152,
+        "name": "Student",
+        "price": "17.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "19.97",
+              "service_charges": "2.97",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "2.97",
+              "total_price_no_tax": "19.97"
+            }
+          }
+        }
+      },
+      {
+        "id": 1031213,
+        "name": "Early Bird",
+        "price": "15.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "17.87",
+              "service_charges": "2.87",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "2.87",
+              "total_price_no_tax": "17.87"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "cSPACE Marda Loop",
+      "country": "CA",
+      "position": "51.0272886,-114.1007114",
+      "province": "Alberta",
+      "postal_code": "T2T 6T7",
+      "street_name": "1721 29 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.1007114 51.0272886)",
+    "is_sponsored": false,
+    "event_rank": "1.3673"
+  },
+  {
+    "id": 283943,
+    "venue": {
+      "id": 6976,
+      "name": "Ranchmans Calgary",
+      "slug": "ranchmans-calgary",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.50",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "NYE 2024 - CHAMPAGNE & SPURS",
+    "description_without_html": "RANCHMAN'S PRESENTS \nNYE 2024 - CHAMPAGNE & SPURS\nOption 1: \nDINNER & SHOW\n(Doors Open At 5:00PM)\nCHUCK MC EWEN SHOW - LIVE MUSIC BY DREW GREGORY - DJ  \n★ RESERVED SEATING★\n★ ROAST BEEF BUFFET DINNER ★\n★ CHUCK McEWAN SHOW DURING THE DINNER ★\n★ PROFESSIONAL PHOTOGRAPHER ★\n★ COUNTDOWN VISUALS ★\n★ PARTY FAVOURS ★\n★ LIVE PERFORMANCES FROM DREW GREGORY (Starting at 9pm)★\n★ PARTY WITH DJ DAVE ★\n--------------------------------------------------------------------------------------------\nOption 2: \nSHOW ONLY\n(Doors Open At 7:30PM)\nLIVE MUSIC BY DREW GREGORY - DJ\n★ GENERAL ADMISSION / NO LINE / NO COVER ★\n★ PROFESSIONAL PHOTOGRAPHER ★\n★ COUNTDOWN VISUALS ★\n★ PARTY FAVOURS ★\n★ LIVE PERFORMANCES FROM DREW GREGORY (Starting at 9pm) ★\n★ PARTY AFTER WITH DJ DAVE ★\n \nCelebrate New Years Eve at Ranchmans!",
+    "starts_on": "2024-01-01T00:00:00Z",
+    "ends_on": "2024-01-01T10:00:00Z",
+    "date_time_to_be_determined": false,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/nye-2024-champagne-spurs/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/ranchmans-calgary/images/db8630e1-b84.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/ranchmans-calgary/img-banner/c51245ab-516.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/ranchmans-calgary/images/db8630e1-b84.png",
+    "inventory": 1000,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "nye-2024-champagne-spurs",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["music", "arts_and_theatres", "food_and_beverage"],
+    "tags": [
+      "cowboys",
+      "george jones",
+      "new years eve",
+      "ranchmans",
+      "connectmusic",
+      "food & beverage",
+      "live music",
+      "stage west",
+      "yyc events",
+      "jubilations",
+      "theater",
+      "dinner",
+      "festivals"
+    ],
+    "ticket_types": [
+      {
+        "id": 1036451,
+        "name": "NYE | VIP BULLPEN (10 GUESTS) |RANCHMANS",
+        "price": "1500.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "75.00",
+              "total_price": "1663.43",
+              "service_charges": "88.43",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "75.00"
+                }
+              ],
+              "sum_internal_fees": "88.43",
+              "total_price_no_tax": "1588.43"
+            }
+          }
+        }
+      },
+      {
+        "id": 1036452,
+        "name": "NYE | VIP TABLE | MEET & GREET | (6 GUESTS) | RANCHMANS",
+        "price": "410.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "20.50",
+              "total_price": "459.83",
+              "service_charges": "29.33",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "20.50"
+                }
+              ],
+              "sum_internal_fees": "29.33",
+              "total_price_no_tax": "439.33"
+            }
+          }
+        }
+      },
+      {
+        "id": 1036449,
+        "name": "NYE | SHOW ONLY | GENERAL ADMISSION | RANCHMANS",
+        "price": "20.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "1.00",
+              "total_price": "23.01",
+              "service_charges": "2.01",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "1.00"
+                }
+              ],
+              "sum_internal_fees": "2.01",
+              "total_price_no_tax": "22.01"
+            }
+          }
+        }
+      },
+      {
+        "id": 1036468,
+        "name": "NYE |DINNER & SHOW | GUARANTEED SEATING |RANCHMANS",
+        "price": "55.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "2.75",
+              "total_price": "61.66",
+              "service_charges": "3.91",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "2.75"
+                }
+              ],
+              "sum_internal_fees": "3.91",
+              "total_price_no_tax": "58.91"
+            }
+          }
+        }
+      },
+      {
+        "id": 1036469,
+        "name": "NYE | VIP 1/2 CHUTE (15 GUESTS) |RANCHMANS",
+        "price": "1000.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "50.00",
+              "total_price": "1111.32",
+              "service_charges": "61.32",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "50.00"
+                }
+              ],
+              "sum_internal_fees": "61.32",
+              "total_price_no_tax": "1061.32"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Ranchmans Calgary",
+      "country": "CA",
+      "position": "50.970672,-114.0725103",
+      "province": "Alberta",
+      "postal_code": "T2J 0P6",
+      "street_name": "9615 Macleod Trail SE"
+    },
+    "point_location": "SRID=4326;POINT (-114.0725103 50.970672)",
+    "is_sponsored": false,
+    "event_rank": "1.3513"
+  },
+  {
+    "id": 276550,
+    "venue": {
+      "id": 3650,
+      "name": "Calgary European Film Festival",
+      "slug": "european-cultural-society-of-calgary",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "THE BEHEADING OF ST. JOHN THE BAPTIST (in-cinema)",
+    "description_without_html": "A family gathers on their annual St. Patrons Day, and as tensions rise among them, hidden conflicts become obvious.\n \nAll films at CEFF are presented in their original language with English subtitles.",
+    "starts_on": "2023-11-06T02:00:00Z",
+    "ends_on": "2023-11-06T04:10:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/the-beheading-of-st-john-the-baptist-in-cinema/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/european-cultural-society-of-calgary/images/E4OF3S-4a6ad1ca-391.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/european-cultural-society-of-calgary/img-banner/4a6ad1ca-391.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/european-cultural-society-of-calgary/images/E4OF3S-4a6ad1ca-391.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": "2023-11-05T00:30:00Z",
+    "slug": "the-beheading-of-st-john-the-baptist-in-cinema",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["film_media_and_entertainment", "fairs_and_festivals"],
+    "tags": ["serbia", "movie", "serbian", "film festival", "film", "european"],
+    "ticket_types": [
+      {
+        "id": 1004916,
+        "name": "General Admission",
+        "price": "15.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "17.22",
+              "service_charges": "2.22",
+              "sum_custom_fees": [],
+              "sum_internal_fees": "2.22",
+              "total_price_no_tax": "17.22"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "The Globe Cinema",
+      "country": "CA",
+      "position": "51.045572,-114.075019",
+      "province": "Alberta",
+      "postal_code": "T2P 1H1",
+      "street_name": "617 8 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.075019 51.045572)",
+    "is_sponsored": false,
+    "event_rank": "1.2863"
+  },
+  {
+    "id": 276074,
+    "venue": {
+      "id": 5027,
+      "name": "Heritage Park",
+      "slug": "heritage-park",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "Once Upon A Christmas",
+    "description_without_html": "Once Upon a Christmas\nExperience the magic of Christmas at Heritage Park with the holiday magic and festive displays of Once Upon A Christmas. Enjoy classic indoor and outdoor Christmas activities with the whole family like horse-drawn wagon rides, visits with Santa, crafts, music, entertainment and so much more! Buy tickets today and get your fix of wholesome holiday cheer at Once Upon A Christmas!\nDates: Saturdays and Sundays, Nov. 25 – Dec. 17, 2023\nTime: 10 am – 4 pm\nChild (3-15): $14.95 plus GST\nGeneral (16+): $19.95 plus GST",
+    "starts_on": "2023-11-25T17:00:00Z",
+    "ends_on": "2023-12-17T23:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "America/Edmonton",
+    "is_recurring": true,
+    "child_count": 8,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/once-upon-a-christmas-4/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/heritage-park/images/6ffdce0f-0c6.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/heritage-park/img-banner/2e320a07-adc.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/heritage-park/images/6ffdce0f-0c6.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "once-upon-a-christmas-4",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": [
+      "charity_and_causes",
+      "seasonal_and_holiday",
+      "family_friendly"
+    ],
+    "tags": ["visitor attraction"],
+    "ticket_types": [
+      {
+        "id": 1003825,
+        "name": "Child (3-15)",
+        "price": "14.95",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.75",
+              "total_price": "15.70",
+              "service_charges": "0.00",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "0.75"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "14.95"
+            }
+          }
+        }
+      },
+      {
+        "id": 1003826,
+        "name": "General (16+)",
+        "price": "19.95",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "1.00",
+              "total_price": "20.95",
+              "service_charges": "0.00",
+              "sum_custom_fees": [
+                {
+                  "name": "GST",
+                  "fee_total": "1.00"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "19.95"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Heritage Park",
+      "country": "CA",
+      "position": "50.9832901,-114.1022826",
+      "province": "Alberta",
+      "postal_code": "T2V 2X3",
+      "street_name": "Heritage Park"
+    },
+    "point_location": "SRID=4326;POINT (-114.1022826 50.9832901)",
+    "is_sponsored": false,
+    "event_rank": "1.2825"
+  },
+  {
+    "id": 273629,
+    "venue": {
+      "id": 2600,
+      "name": "The GRAND",
+      "slug": "-the-grand-yyc",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.50",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": true
+    },
+    "name": "Big Band Burlesque - Wonderland",
+    "description_without_html": "Glitterverse Productions is extremely proud to return to The GRAND with the next edition of Big Band Burlesque, Wonderland! Join us on Saturday, November 25, 2023 as we head on an adventure back to Club Obi Wan and a time when the big bands of Benny Goodman, Duke Ellington, Glen Miller and Cab Callaway ruled the airwaves. Come on a sentimental journey with the Midnight Blue Jazz Society and their 17 piece big brass band as they lead us through the decades with added flavours of swing, jazz, blues, latin, funk, classic rock and their own take on modern hits. Combine these sounds with the glitz and glamour of some of western Canada's premier burlesque performers and vocalists bring to the stage, and you have yourself one exciting evening that is not to be missed. Starring - Portia Favro (Vancouver, BC) With performances by: Bella Gold, Bea Lissima, Karla Marx, and Dare Reaire. Featuring the sultry vocals of Ivy La Fleur. Hosted by Baron von Boom. Bar and Lobby open at 6:30 PM. Theatre opens at 7:00 PM. Show begins at 7:30 PM. The show will run approx. 2.5 hours, and will be presented in two sets with one intermission.",
+    "starts_on": "2023-11-26T02:30:00Z",
+    "ends_on": "2023-11-26T06:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/bbb-wonderland/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/-the-grand-yyc/images/08XL2P-b7ffb53a-3f6.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/-the-grand-yyc/img-banner/b7ffb53a-3f6.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/-the-grand-yyc/images/08XL2P-b7ffb53a-3f6.png",
+    "inventory": 338,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": "2023-11-26T01:30:00Z",
+    "slug": "bbb-wonderland",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["arts_and_theatres", "community_and_culture"],
+    "tags": ["burlesque", "big band", "dance", "live music"],
+    "ticket_types": [
+      {
+        "id": 994745,
+        "name": "Assigned Seat",
+        "price": "40.00",
+        "inventory_left": 254,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "47.53",
+              "service_charges": "7.53",
+              "sum_custom_fees": [
+                {
+                  "name": "Facility Fee",
+                  "fee_total": "7.53"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "47.53"
+            }
+          }
+        }
+      },
+      {
+        "id": 994749,
+        "name": "Companion Seat",
+        "price": "40.00",
+        "inventory_left": 2,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "47.53",
+              "service_charges": "7.53",
+              "sum_custom_fees": [
+                {
+                  "name": "Facility Fee",
+                  "fee_total": "7.53"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "47.53"
+            }
+          }
+        }
+      },
+      {
+        "id": 994748,
+        "name": "Wheelchair Space or Bariatric Seat",
+        "price": "40.00",
+        "inventory_left": 2,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "47.53",
+              "service_charges": "7.53",
+              "sum_custom_fees": [
+                {
+                  "name": "Facility Fee",
+                  "fee_total": "7.53"
+                }
+              ],
+              "sum_internal_fees": "0.00",
+              "total_price_no_tax": "47.53"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "The GRAND",
+      "country": "CA",
+      "position": "51.0471522,-114.065167",
+      "province": "Alberta",
+      "postal_code": "T2P 1M6",
+      "street_name": "608 1 St SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.065167 51.0471522)",
+    "is_sponsored": false,
+    "event_rank": "1.2577"
+  },
+  {
+    "id": 223615,
+    "venue": {
+      "id": 277,
+      "name": "BEEHIVE PRESENTS",
+      "slug": "beehivepresents",
+      "currency": "CAD",
+      "low_inventory_threshold_low": "0.50",
+      "low_inventory_threshold_middle": "0.60",
+      "low_inventory_threshold_high": "0.75",
+      "low_inventory_warning_enabled": false
+    },
+    "name": "NO THANKS • 11.11.23",
+    "description_without_html": "Beehive Presents CARTE BLANCHE featuring:\nNO THANKS (Thrive, Insomniac, Terminal Underground)\nwith special guest(s): BLKFT, NITESHADE & friends\nSaturday, November 11th 2023 - Remembrance Day Long Weekend200 8th Ave SW, Calgary, Canada18+ with valid ID.Doors 9PM. Curfew 2AM\nTickets on sale now: showpass.com/nothanksyyc\nFor table service/VIP inquires please contact: info@beehivepresents.comStay connected with us @beehivepresents\n \nPlease be aware of ticket scams!\n• Only buy tickets online through our website• Do not buy from someone you don't know• Buying resale tickets are at your own risk\n \nNO THANKSinstagram.com/nothanks/\nNo Thanks is a high-energy house duo that produces their sound from the Canadian West Coast at full tilt. Giuliano Rascan and Dejan Zoric’s collaboration merges the gap between tech, bass, and pop genres to curate house that is undeniably rooted in West Coast influence.\nWhile the standard house rules apply, No Thanks lures their listeners into an auditory playground that is vocal driven and stylized with high pitch, tight drums, and low bass lines. Their approach to music is instrumentally nuanced, but their philosophy is simple: there’s something for everyone. This duo’s international reach has generated a global call for West Coast house, and No Thanks is responding.\nLatest release \"Freak\" dropped just under 3 weeks ago and has already hit 300k streams and a number of big Spotify playlists.\nHighlights include DJ support from Marten Horger, DJ Susan, Neon Steve, Dr Fresch, Wax Motif, Chris Lake, Biscits, David Guetta, CID, BIJOU, Tiesto, FREAK ON, Westend, Loud Luxury, Bingo Players, ACRAZE, Kyle Watson, 3lau and more!\n.",
+    "starts_on": "2023-11-12T04:00:00Z",
+    "ends_on": "2023-11-12T09:00:00Z",
+    "date_time_to_be_determined": null,
+    "timezone": "Canada/Mountain",
+    "is_recurring": null,
+    "child_count": 0,
+    "external_link": null,
+    "frontend_details_url": "https://www.showpass.com/nothanksyyc/",
+    "image": "https://doavub8d2uzrx.cloudfront.net/media/images/events/beehivepresents/images/ce904845-554.png",
+    "image_banner": "https://doavub8d2uzrx.cloudfront.net/media/images/events/beehivepresents/img-banner/179cda6a-998.png",
+    "thumbnail": "https://doavub8d2uzrx.cloudfront.net/media/https%3A/doavub8d2uzrx.cloudfront.net/media/images/events/beehivepresents/images/ce904845-554.png",
+    "inventory": null,
+    "inventory_sold_out": false,
+    "public_inventory_sold_out": false,
+    "no_ticket_types": false,
+    "opens_at": null,
+    "slug": "nothanksyyc",
+    "sold_out": false,
+    "status": "sp_event_active",
+    "virtual_event_type": null,
+    "categories": ["music"],
+    "tags": [
+      "badlands music festival",
+      "yyc",
+      "san pacho",
+      "hugel",
+      "diplo",
+      "house music",
+      "techno",
+      "tech house",
+      "kaskade",
+      "calgary",
+      "coachella music festival"
+    ],
+    "ticket_types": [
+      {
+        "id": 847389,
+        "name": "General Admission (Early Bird)",
+        "price": "15.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "19.34",
+              "service_charges": "4.34",
+              "sum_custom_fees": [
+                {
+                  "name": "Host Fee",
+                  "fee_total": "2.07"
+                }
+              ],
+              "sum_internal_fees": "2.27",
+              "total_price_no_tax": "19.34"
+            }
+          }
+        }
+      },
+      {
+        "id": 849840,
+        "name": "General Admission (Tier 1)",
+        "price": "20.00",
+        "inventory_left": null,
+        "low_ticket_inventory": 0,
+        "fees_pricing_info": {
+          "psp_web": {
+            "2": {
+              "taxes": "0.00",
+              "total_price": "24.73",
+              "service_charges": "4.73",
+              "sum_custom_fees": [
+                {
+                  "name": "Host Fee",
+                  "fee_total": "2.19"
+                }
+              ],
+              "sum_internal_fees": "2.54",
+              "total_price_no_tax": "24.73"
+            }
+          }
+        }
+      }
+    ],
+    "location": {
+      "city": "Calgary",
+      "name": "Sub Rosa",
+      "country": "CA",
+      "position": "51.046049,-114.0661433",
+      "province": "Alberta",
+      "postal_code": "T2P 1B5",
+      "street_name": "200 8 Ave SW"
+    },
+    "point_location": "SRID=4326;POINT (-114.0661433 51.046049)",
+    "is_sponsored": false,
+    "event_rank": "1.2572"
+  }
+]
