@@ -1,20 +1,26 @@
-import { Box, Grid, Heading, type BoxProps } from '@chakra-ui/react'
+import { Box, Grid, Heading } from '@chakra-ui/react'
+import styled from '@emotion/styled'
 import { type FC, type ReactElement } from 'react'
 import { Event } from './types'
 
-type EventListProps = BoxProps & {
+type EventListProps = {
   events: ReadonlyArray<Event>
   render: (event: Event) => ReactElement
 }
 
-const EventList: FC<EventListProps> = ({ events, render, ...props }) => {
+const EventGrid = styled(Grid)`
+  gap: 1rem;
+  margin-top: 1rem;
+`
+
+const EventList: FC<EventListProps> = ({ events, render }) => {
   return (
-    <Box {...props}>
+    <Box>
       <Heading>Events</Heading>
 
-      <Grid mt="4" gap="4" templateColumns="repeat(2, 1fr)">
+      <EventGrid templateColumns="repeat(2, 1fr)">
         {events.map((event) => render(event))}
-      </Grid>
+      </EventGrid>
     </Box>
   )
 }
