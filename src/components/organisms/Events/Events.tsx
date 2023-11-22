@@ -10,9 +10,7 @@ import {
   Input,
   Text,
 } from '@chakra-ui/react'
-import afterFrame from 'afterframe'
 import { ReactElement, useState } from 'react'
-import benchmark from '../../../utils/benchmark'
 import data from './data.json'
 import { Event } from './types'
 
@@ -111,9 +109,6 @@ const Events = () => {
         : [...favorites, id]
     })
   }
-
-  const end = benchmark()
-  afterFrame(end)
 
   return (
     <Box>
