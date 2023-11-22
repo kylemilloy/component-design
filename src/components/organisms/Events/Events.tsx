@@ -81,7 +81,7 @@ Events.List = function EventsList({
       <Heading>Events</Heading>
 
       <Grid mt="4" gap="4" templateColumns="repeat(2, 1fr)">
-        {events.map((event) => render(event))}
+        {events.map(render)}
       </Grid>
     </Box>
   )
