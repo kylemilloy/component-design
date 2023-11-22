@@ -10,7 +10,13 @@ import {
   Input,
   Text,
 } from '@chakra-ui/react'
-import { ReactElement, useCallback, useMemo, useState } from 'react'
+import {
+  ChangeEvent,
+  ReactElement,
+  useCallback,
+  useMemo,
+  useState,
+} from 'react'
 import data from './data.json'
 import { Event } from './types'
 
@@ -29,6 +35,10 @@ export default function Events() {
     [query],
   )
 
+  const onQuery = useCallback((event: ChangeEvent<HTMLInputElement>) => {
+    setQuery(event.target.value)
+  }, [])
+
   const onToggleFavorite = useCallback((id: number) => {
     setFavorites((favorites) => {
       return favorites.includes(id)
@@ -37,26 +47,23 @@ export default function Events() {
     })
   }, [])
 
+  const render = useCallback(
+    (event: Event) => (
+      <Events.Item
+        key={event.id}
+        event={event}
+        onFavorite={onToggleFavorite}
+        isFavorited={favorites.includes(event.id)}
+      />
+    ),
+    [favorites, onToggleFavorite],
+  )
+
   return (
     <Box>
-      <Input
-        value={query}
-        placeholder="Search by name..."
-        onChange={(e) => setQuery(e.target.value)}
-      />
+      <Input value={query} placeholder="Search by name..." onChange={onQuery} />
 
-      <Events.List
-        mt="4"
-        events={events}
-        render={(event) => (
-          <Events.Item
-            key={event.id}
-            event={event}
-            isFavorited={favorites.includes(event.id)}
-            onFavorite={(id) => onToggleFavorite(id)}
-          />
-        )}
-      />
+      <Events.List mt="4" events={events} render={render} />
     </Box>
   )
 }
