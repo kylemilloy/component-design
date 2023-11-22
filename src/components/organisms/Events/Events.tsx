@@ -1,5 +1,6 @@
 import {
   Box,
+  BoxProps,
   Grid,
   GridItem,
   Heading,
@@ -100,16 +101,16 @@ const EventItem: FC<EventItemProps> = ({ event, isFavorited, onFavorite }) => {
 type EventListProps = {
   events: ReadonlyArray<Event>
   render: (event: Event) => ReactElement
-}
+} & BoxProps
 
 const EventGrid = styled(Grid)`
   gap: 1rem;
   margin-top: 1rem;
 `
 
-export const EventList: FC<EventListProps> = ({ events, render }) => {
+export const EventList: FC<EventListProps> = ({ events, render, ...props }) => {
   return (
-    <Box>
+    <Box {...props}>
       <Heading>Events</Heading>
 
       <EventGrid templateColumns="repeat(2, 1fr)">
