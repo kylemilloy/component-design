@@ -14,7 +14,50 @@ import { ReactElement, useState } from 'react'
 import data from './data.json'
 import { Event } from './types'
 
-const EventItem = ({
+export default function Events() {
+  const [query, setQuery] = useState('')
+  const [favorites, setFavorites] = useState<Array<Event['id']>>([])
+  const events = data.filter((event) => {
+    if (query) {
+      return event.name.toLowerCase().includes(query.toLowerCase())
+    }
+
+    return true
+  }) as unknown as ReadonlyArray<Event>
+
+  const onToggleFavorite = (id: number) => {
+    setFavorites((favorites) => {
+      return favorites.includes(id)
+        ? favorites.filter((favorite) => favorite !== id)
+        : [...favorites, id]
+    })
+  }
+
+  return (
+    <Box>
+      <Input
+        value={query}
+        placeholder="Search by name..."
+        onChange={(e) => setQuery(e.target.value)}
+      />
+
+      <Events.List
+        mt="4"
+        events={events}
+        render={(event) => (
+          <Events.Item
+            key={event.id}
+            event={event}
+            isFavorited={favorites.includes(event.id)}
+            onFavorite={(id) => onToggleFavorite(id)}
+          />
+        )}
+      />
+    </Box>
+  )
+}
+
+Events.Item = function EventsItem({
   event,
   isFavorited,
   onFavorite,
@@ -22,7 +65,7 @@ const EventItem = ({
   event: Event
   isFavorited: boolean
   onFavorite: (id: number) => void
-}) => {
+}) {
   const { name, image, location, description_without_html: description } = event
 
   return (
@@ -72,14 +115,14 @@ const EventItem = ({
   )
 }
 
-export const EventList = ({
+Events.List = function EventsList({
   events,
   render,
   ...props
 }: {
   events: ReadonlyArray<Event>
   render: (event: Event) => ReactElement
-} & BoxProps) => {
+} & BoxProps) {
   return (
     <Box {...props}>
       <Heading>Events</Heading>
@@ -90,48 +133,3 @@ export const EventList = ({
     </Box>
   )
 }
-
-const Events = () => {
-  const [query, setQuery] = useState('')
-  const [favorites, setFavorites] = useState<Array<Event['id']>>([])
-  const events = data.filter((event) => {
-    if (query) {
-      return event.name.toLowerCase().includes(query.toLowerCase())
-    }
-
-    return true
-  }) as unknown as ReadonlyArray<Event>
-
-  const onToggleFavorite = (id: number) => {
-    setFavorites((favorites) => {
-      return favorites.includes(id)
-        ? favorites.filter((favorite) => favorite !== id)
-        : [...favorites, id]
-    })
-  }
-
-  return (
-    <Box>
-      <Input
-        value={query}
-        placeholder="Search by name..."
-        onChange={(e) => setQuery(e.target.value)}
-      />
-
-      <EventList
-        mt="4"
-        events={events}
-        render={(event) => (
-          <EventItem
-            key={event.id}
-            event={event}
-            isFavorited={favorites.includes(event.id)}
-            onFavorite={(id) => onToggleFavorite(id)}
-          />
-        )}
-      />
-    </Box>
-  )
-}
-
-export default Events
