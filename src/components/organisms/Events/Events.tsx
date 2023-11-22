@@ -98,6 +98,11 @@ Events.Item = function EventsItem({
 }) {
   const { name, image, location, description_without_html: description } = event
 
+  const onClick = useCallback(
+    () => onFavorite(event.id),
+    [event.id, onFavorite],
+  )
+
   return (
     <GridItem>
       <Box position="relative">
@@ -106,11 +111,11 @@ Events.Item = function EventsItem({
         <IconButton
           top="4"
           right="4"
+          onClick={onClick}
           position="absolute"
           alignItems="center"
           justifyContent="center"
           aria-label="Toggle Favorite"
-          onClick={() => onFavorite(event.id)}
         >
           <Icon w="6" h="6" color="red">
             <path
