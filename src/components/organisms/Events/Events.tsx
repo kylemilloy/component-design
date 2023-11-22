@@ -11,9 +11,7 @@ import {
   Text,
 } from '@chakra-ui/react'
 import styled from '@emotion/styled'
-import afterFrame from 'afterframe'
 import { FC, ReactElement, useState } from 'react'
-import benchmark from '../../../utils/benchmark'
 import data from './data.json'
 import { Event } from './types'
 
@@ -142,9 +140,6 @@ const Events: FC = () => {
         : [...favorites, id]
     })
   }
-
-  const end = benchmark()
-  afterFrame(end)
 
   return (
     <Box>
