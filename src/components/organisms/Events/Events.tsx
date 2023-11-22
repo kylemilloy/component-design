@@ -11,18 +11,20 @@ import {
   Text,
 } from '@chakra-ui/react'
 import afterFrame from 'afterframe'
-import { FC, ReactElement, useState } from 'react'
+import { ReactElement, useState } from 'react'
 import benchmark from '../../../utils/benchmark'
 import data from './data.json'
 import { Event } from './types'
 
-type EventItemProps = {
+const EventItem = ({
+  event,
+  isFavorited,
+  onFavorite,
+}: {
   event: Event
   isFavorited: boolean
   onFavorite: (id: number) => void
-}
-
-const EventItem: FC<EventItemProps> = ({ event, isFavorited, onFavorite }) => {
+}) => {
   const { name, image, location, description_without_html: description } = event
 
   return (
@@ -72,12 +74,14 @@ const EventItem: FC<EventItemProps> = ({ event, isFavorited, onFavorite }) => {
   )
 }
 
-type EventListProps = {
+export const EventList = ({
+  events,
+  render,
+  ...props
+}: {
   events: ReadonlyArray<Event>
   render: (event: Event) => ReactElement
-} & BoxProps
-
-export const EventList: FC<EventListProps> = ({ events, render, ...props }) => {
+} & BoxProps) => {
   return (
     <Box {...props}>
       <Heading>Events</Heading>
@@ -89,7 +93,7 @@ export const EventList: FC<EventListProps> = ({ events, render, ...props }) => {
   )
 }
 
-const Events: FC = () => {
+const Events = () => {
   const [query, setQuery] = useState('')
   const [favorites, setFavorites] = useState<Array<Event['id']>>([])
   const events = data.filter((event) => {
