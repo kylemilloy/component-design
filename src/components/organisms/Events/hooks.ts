@@ -1,10 +1,11 @@
-import { useCallback, useMemo, useState } from 'react'
+import { ChangeEvent, useCallback, useMemo, useState } from 'react'
 import data from './data.json'
 import { Event } from './types'
 
 export default function useEvents() {
   const [query, setQuery] = useState('')
   const [favorites, setFavorites] = useState<Array<Event['id']>>([])
+
   const events = useMemo(
     () =>
       data.filter((event) => {
@@ -17,6 +18,10 @@ export default function useEvents() {
     [query],
   )
 
+  const onQuery = useCallback((event: ChangeEvent<HTMLInputElement>) => {
+    setQuery(event.target.value)
+  }, [])
+
   const onToggleFavorite = useCallback((id: number) => {
     setFavorites((favorites) => {
       return favorites.includes(id)
@@ -25,5 +30,11 @@ export default function useEvents() {
     })
   }, [])
 
-  return {}
+  return {
+    query,
+    events,
+    onQuery,
+    favorites,
+    onToggleFavorite,
+  }
 }

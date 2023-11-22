@@ -10,30 +10,49 @@ import {
   Input,
   Text,
 } from '@chakra-ui/react'
-import { ReactElement } from 'react'
+import { ReactElement, useCallback } from 'react'
+import useEvents from './hooks'
 import { Event } from './types'
 
 export default function Events() {
+  const { query, events, onQuery, favorites, onToggleFavorite } = useEvents()
+
+  const render = useCallback(
+    (event: Event) => (
+      <Events.Item
+        key={event.id}
+        event={event}
+        onFavorite={onToggleFavorite}
+        isFavorited={favorites.includes(event.id)}
+      />
+    ),
+    [favorites, onToggleFavorite],
+  )
+
   return (
     <Box>
-      <Input
-        value={query}
-        placeholder="Search by name..."
-        onChange={(e) => setQuery(e.target.value)}
-      />
+      <Input value={query} placeholder="Search by name..." onChange={onQuery} />
 
-      <Events.List
-        mt="4"
-        events={events}
-        render={(event) => (
-          <Events.Item
-            key={event.id}
-            event={event}
-            isFavorited={favorites.includes(event.id)}
-            onFavorite={(id) => onToggleFavorite(id)}
-          />
-        )}
-      />
+      <Events.List mt="4" events={events} render={render} />
+    </Box>
+  )
+}
+
+Events.List = function EventsList({
+  events,
+  render,
+  ...props
+}: {
+  events: ReadonlyArray<Event>
+  render: (event: Event) => ReactElement
+} & BoxProps) {
+  return (
+    <Box {...props}>
+      <Heading>Events</Heading>
+
+      <Grid mt="4" gap="4" templateColumns="repeat(2, 1fr)">
+        {events.map((event) => render(event))}
+      </Grid>
     </Box>
   )
 }
@@ -93,24 +112,5 @@ Events.Item = function EventsItem({
         {description?.substring(0, 140)}
       </Text>
     </GridItem>
-  )
-}
-
-Events.List = function EventsList({
-  events,
-  render,
-  ...props
-}: {
-  events: ReadonlyArray<Event>
-  render: (event: Event) => ReactElement
-} & BoxProps) {
-  return (
-    <Box {...props}>
-      <Heading>Events</Heading>
-
-      <Grid mt="4" gap="4" templateColumns="repeat(2, 1fr)">
-        {events.map((event) => render(event))}
-      </Grid>
-    </Box>
   )
 }
